@@ -1,4 +1,4 @@
-import { Chess } from './js/chess.js'
+const { Chess } = require('./js/chess.ts')
 
 var game = new Chess();
 
