@@ -1,3 +1,5 @@
+import { Chess } from './js/chess.js'
+
 var game = new Chess();
 
 // Initialize the chessboard
